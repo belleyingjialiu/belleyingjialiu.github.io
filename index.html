@@ -88,6 +88,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./index.html#conferences"> 
+<span class="menu-text">Conferences</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./index.html#coffee-chat"> 
 <span class="menu-text">Coffee Chat</span></a>
   </li>  
@@ -304,6 +308,22 @@ ul.task-list li input[type="checkbox"] {
 
 
     
+    <section id="conferences">
+    <h2 class="anchored">Conference Updates</h2>
+
+    <p>
+        <strong>SBM 2027 | Atlanta, GA | April 14–17</strong>
+    </p>
+
+    <p>
+        I'll be presenting a poster at the 2027
+        Society of Behavioral Medicine Annual Meeting
+        in Atlanta! Poster session details are
+        forthcoming. If you're attending,
+        I'd love to connect!
+    </p>
+    </section>
+
     
     <section id="coffee-chat">
     <h2 class="anchored">Let's Chat ☕</h2>
@@ -407,7 +427,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/yingjialiu\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
