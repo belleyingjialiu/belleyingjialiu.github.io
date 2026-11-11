@@ -1,0 +1,21 @@
+
+project:
+  type: website
+
+website:
+  title: "Belle Yingjia Liu"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: index.qmd#publications
+        text: Publications
+      - href: index.qmd#coffee-chat
+        text: Coffee Chat
+  search: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

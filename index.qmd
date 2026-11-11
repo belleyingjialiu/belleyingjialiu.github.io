@@ -1,0 +1,216 @@
+---
+title: "Belle Yingjia Liu"
+page-layout: full
+---
+
+```{=html}
+<div class="academic-layout">
+
+  <div class="profile-sidebar">
+    <img src="images/profile.jpg" alt="Belle Yingjia Liu" class="profile-photo">
+
+    <h1>Belle Yingjia Liu</h1>
+    <p class="position">PhD Student in Movement Science</p>
+    <p class="affiliation">University of Michigan</p>
+
+
+    <div class="contact-actions">
+    <a href="mailto:belleliu@umich.edu" class="coffee-button">
+        Email Me ✉️ 
+    </a>
+
+    <a href="#coffee-chat" class="coffee-button">
+        Coffee Chat ☕ 
+    </a>
+    </div>
+
+  </div>
+
+  <div class="academic-content">
+
+    <section id="about">
+    <h2>About Me</h2>
+    <p>
+        I am a PhD student in Movement Science at the University of Michigan, working with Dr. David E. Conroy in the Motivation Lab. My current research focuses on affective determinants of health behavior, particularly in the context of physical activity among middle aged and older adults, as well as drinking behavior among patients with kidney stones. I also explore how emerging technologies, including generative AI, can inform personalized approaches to behavior change.
+    </p>
+    </section>
+
+    <section id="publications">
+    <h2>Publications</h2>
+
+    <h3 class="publication-group-heading">Journal Articles</h3>
+
+    <div class="publication">
+        <span class="year">2026</span>
+        <div>
+        <strong>
+            <a href="https://doi.org/10.1093/abm/kaag028">
+            Optimizing generative artificial intelligence
+            prompts to engage urges for physical activity
+            in middle-aged and older adults
+            </a>
+        </strong>
+        <p>
+            <strong>Liu, Y.</strong>, Tabaczynski, A.,
+            Abdullah, S., Benson, L., &amp; Conroy, D. E.
+            <em>Annals of Behavioral Medicine, 60</em>(1),
+            kaag028.
+        </p>
+        </div>
+    </div>
+
+    <div class="publication">
+        <span class="year">2026</span>
+        <div>
+        <strong>
+            <a href="https://doi.org/10.1093/geronb/gbag062">
+            Characterizing middle-aged and older adults'
+            perceptions of the cultural sensitivity and
+            quality of generative artificial
+            intelligence-authored text messages to
+            promote physical activity
+            </a>
+        </strong>
+        <p>
+            Tabaczynski, A., <strong>Liu, Y.</strong>,
+            Abdullah, S., Benson, L., &amp; Conroy, D. E.
+            <em>The Journals of Gerontology: Series B,
+            81</em>(6), gbag062.
+        </p>
+        </div>
+    </div>
+
+    <div class="publication">
+        <span class="year">2025</span>
+        <div>
+        <strong>
+            <a href="https://doi.org/10.1016/j.urology.2025.04.035">
+            Urges to Drink Predict Urine Output Volume
+            in Patients With Kidney Stones
+            </a>
+        </strong>
+        <p>
+            <strong>Liu, Y.</strong>, Streeper, N. M.,
+            &amp; Conroy, D. E.
+            <em>Urology, 202</em>, 29–34.
+        </p>
+        </div>
+    </div>
+
+    <div class="publication">
+        <span class="year">2025</span>
+        <div>
+        <strong>
+            <a href="https://doi.org/10.1016/j.appet.2024.107747">
+            Cognitive evaluations of water, urges to drink,
+            and fluid intake in patients with kidney stones
+            </a>
+        </strong>
+        <p>
+            <strong>Liu, Y.</strong>, Marks, J. T.,
+            Streeper, N. M., &amp; Conroy, D. E.
+            <em>Appetite, 204</em>, 107747.
+        </p>
+        </div>
+    </div>
+
+    <h3 class="publication-group-heading">Correspondence</h3>
+
+    <div class="publication">
+        <span class="year">2025</span>
+        <div>
+        <strong>
+            <a href="https://doi.org/10.1016/j.urology.2025.05.055">
+            Reply to Editorial Comment on
+            “Urges to Drink Predict Urine Output Volume
+            in Patients With Kidney Stones”
+            </a>
+        </strong>
+        <p>
+            Conroy, D. E., <strong>Liu, Y.</strong>,
+            &amp; Streeper, N. M.
+            <em>Urology, 202</em>, 36–37.
+        </p>
+        <p class="reply-context">
+            Response to Dr. Crivelli
+        </p>
+        </div>
+    </div>
+
+    <div class="publication">
+        <span class="year">2025</span>
+        <div>
+        <strong>
+            <a href="https://doi.org/10.1016/j.urology.2025.05.049">
+            Reply to Letter to the Editor on
+            “Urges to Drink Predict Urine Output Volume
+            in Patients With Kidney Stones”
+            </a>
+        </strong>
+        <p>
+            Conroy, D. E., <strong>Liu, Y.</strong>,
+            &amp; Streeper, N. M.
+            <em>Urology, 202</em>, 40–41.
+        </p>
+        <p class="reply-context">
+            Response to Dr. Huang
+        </p>
+        </div>
+    </div>
+
+    <div class="publication">
+        <span class="year">2025</span>
+        <div>
+        <strong>
+            <a href="https://doi.org/10.1016/j.urology.2025.05.054">
+            Reply to Letter to the Editor on
+            “Urges to Drink Predict Urine Output Volume
+            in Patients With Kidney Stones”
+            </a>
+        </strong>
+        <p>
+            Conroy, D. E., <strong>Liu, Y.</strong>,
+            &amp; Streeper, N. M.
+            <em>Urology, 202</em>, 44–45.
+        </p>
+        <p class="reply-context">
+            Response to Dr. Yuan and colleagues
+        </p>
+        </div>
+    </div>
+
+    </section>
+
+
+    
+    
+    <section id="coffee-chat">
+    <h2>Let's Chat ☕</h2>
+
+    <p>
+        I'm always happy to connect with people
+        who share similar interests or would simply
+        like to chat! Whether it's about research,
+        graduate school, or academic life,
+        feel free to reach out.
+    </p>
+
+    <div class="booking-card">
+        <strong>15-minute Coffee Chat</strong>
+        <p>
+        Find a time that works for both of us!
+        </p>
+
+        <a
+        href="https://calendar.app.google/J6MBMB7j5QumhRT88"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="coffee-button">
+        Schedule a Chat ☕
+        </a>
+    </div>
+    </section>
+
+  </div>
+</div>
+```
