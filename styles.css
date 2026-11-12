@@ -229,3 +229,10 @@ body {
   color: #888888;
   letter-spacing: 0.2px;
 }
+
+/* Prevent sidebar from being cut off on shorter screens */
+@media (max-height: 850px) and (min-width: 761px) {
+  .profile-sidebar {
+    position: static;
+  }
+}
