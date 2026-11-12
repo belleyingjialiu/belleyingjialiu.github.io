@@ -25,7 +25,7 @@ body {
 
 .profile-sidebar {
   position: sticky;
-  top: 100px;
+  top: 24px;
 }
 
 .portrait-placeholder {
@@ -200,4 +200,32 @@ body {
   margin: 0;
 }
 
+/* The 8 PM Double Espresso Club */
+.espresso-club {
+  margin-top: 28px;
+  padding: 24px 8px 8px;
+  border-top: 1px solid #eeeeee;
+  text-align: center;
+}
 
+.espresso-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #253247;
+}
+
+.espresso-title svg {
+  flex-shrink: 0;
+  color: #888888;
+}
+
+.espresso-subtitle {
+  margin-top: 8px;
+  font-size: 13px;
+  color: #888888;
+  letter-spacing: 0.2px;
+}
