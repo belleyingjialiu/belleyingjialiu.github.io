@@ -1,12 +1,12 @@
 body {
   font-family: "Avenir Next", Arial, sans-serif;
   color: #263445;
-  background: #ffffff;
+  background: #F0F6FC;
 }
 
 .navbar {
-  background: white !important;
-  border-bottom: 1px solid #e9edf2;
+  background: #F7FAFD !important;
+  border-bottom: 1px solid #DFE8F2;
 }
 
 #title-block-header {
